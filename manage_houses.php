@@ -10,7 +10,13 @@
 			<!-- FORM Panel -->
 			
 			<!-- FORM Panel -->
-
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
 			<!-- Table Panel -->
 			<div class="col-md-12">
 				<div class="card">
@@ -56,6 +62,13 @@
 	</div>	
 
 </div>
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
 <style>
 	
 	td{
@@ -67,6 +80,13 @@
 		line-height: 1em;
 	}
 </style>
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
 <script>
 	$('#manage-house').on('reset',function(e){
 		$('#msg').html('')
@@ -131,6 +151,13 @@
 	// }
 	// $('table').dataTable()
 </script>
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
 <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
 <script src="https://cdn.datatables.net/2.0.5/js/dataTables.js"></script>
 <script src="https://cdn.datatables.net/buttons/3.0.2/js/dataTables.buttons.js"></script>
@@ -147,7 +174,14 @@
         }
     }
 });
-</script><footer class="footer d-flex flex-column flex-md-row align-items-center justify-content-between px-4 py-3 border-top small">
-<p class="text-muted mb-1 mb-md-0">Copyright © 2024 <a href="https://www.facebook.com/dev.mhrony/" target="_blank">Tenant Management System Software</a> - Design and Develop By MH RONY </p>
-   
+</script>
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
+<footer class="footer d-flex flex-column flex-md-row align-items-center justify-content-between px-4 py-3 border-top small">
+   <p class="text-muted mb-1 mb-md-0">Copyright © 2024 Tenant Management System Software - Design and Develop By <a href="https://www.facebook.com/dev.mhrony/" target="_blank"> MH RONY </a> </p>
 </footer>

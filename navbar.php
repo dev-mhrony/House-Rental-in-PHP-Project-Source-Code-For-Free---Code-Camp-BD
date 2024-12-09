@@ -68,6 +68,13 @@
 		</div>
 
 </nav>
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
 <script>
 	$('.nav_collapse').click(function(){
 		console.log($(this).attr('href'))
@@ -75,6 +82,13 @@
 	})
 	$('.nav-<?php echo isset($_GET['page']) ? $_GET['page'] : '' ?>').addClass('active')
 </script>
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
 <script src="https://unpkg.com/feather-icons@4.29.1/dist/feather.min.js"></script>
 <script>
     feather.replace();
@@ -102,3 +116,10 @@
 });
 
 </script>
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->

@@ -167,6 +167,13 @@
                            </div>
                            </div> -->
                      </div>
+                     <!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
                   </div>
                   <div class="col-md-4 mb-3">
                      <div class="card card-1">
@@ -234,6 +241,13 @@
       </div>
    </div>
 </div>
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
 <div class="container-fluid">
    <div class="row">
       <div class="col-md-12 mb-3">
@@ -245,6 +259,13 @@
 <script>
    feather.replace();
 </script>
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
 <script>
    $('#manage-records').submit(function(e){
           e.preventDefault()
@@ -303,6 +324,13 @@
               })
       }
 </script>
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript">
    google.charts.load('current', {'packages':['corechart']});
@@ -343,7 +371,14 @@
          chart.draw(data, options);
       }
    }
-</script><footer class="footer d-flex flex-column flex-md-row align-items-center justify-content-between px-4 py-3 border-top small">
-   <p class="text-muted mb-1 mb-md-0">Copyright © 2024 <a href="https://www.facebook.com/dev.mhrony/" target="_blank">Tenant Management System Software</a> - Design and Develop By MH RONY </p>
-   
+</script>
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
+<footer class="footer d-flex flex-column flex-md-row align-items-center justify-content-between px-4 py-3 border-top small">
+   <p class="text-muted mb-1 mb-md-0">Copyright © 2024 Tenant Management System Software - Design and Develop By <a href="https://www.facebook.com/dev.mhrony/" target="_blank"> MH RONY </a> </p>
 </footer>

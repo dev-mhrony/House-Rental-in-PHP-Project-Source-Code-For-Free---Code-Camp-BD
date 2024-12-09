@@ -54,6 +54,13 @@
 										<th>Last Payment</th>
 									</tr>
 								</thead>
+								<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
 								<tbody>
 									<?php 
 									$i = 1;
@@ -96,7 +103,13 @@
 		</div>
 	</div>
 	<p class="text-muted mb-1 mb-md-0">Copyright © 2024 <a href="https://www.facebook.com/dev.mhrony/" target="_blank">Tenant Management System Software</a> - Design and Develop By MH RONY </p>
-   
+   <!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
 </div>
 <script>
 	$('#print').click(function(){
@@ -115,4 +128,10 @@
 		e.preventDefault()
 		location.href = 'index.php?page=payment_report&'+$(this).serialize()
 	})
-</script>
+</script><!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->

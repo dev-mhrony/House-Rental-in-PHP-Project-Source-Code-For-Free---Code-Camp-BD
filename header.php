@@ -20,7 +20,13 @@
   <link href="assets/DataTables/datatables.min.css" rel="stylesheet">
   <link href="assets/css/jquery.datetimepicker.min.css" rel="stylesheet">
   <link href="assets/css/select2.min.css" rel="stylesheet">
-
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
@@ -42,7 +48,13 @@
     <script type="text/javascript" src="assets/js/jquery.datetimepicker.full.min.js"></script>
     <script type="text/javascript" src="assets/font-awesome/js/all.min.js"></script>
   <script type="text/javascript" src="assets/js/jquery-te-1.4.0.min.js" charset="utf-8"></script>
-
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
 <script type="text/javascript">
   function onReady(callback) {
     var intervalID = window.setInterval(checkReady, 1000);
@@ -64,3 +76,10 @@ onReady(function () {
 });
 </script>
 
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->

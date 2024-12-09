@@ -8,7 +8,13 @@ if($qry->num_rows > 0){
 }
  ?>
 <div class="container-fluid">
-	
+	<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
 	<div class="card col-lg-12">
 		<div class="card-body">
 			<form action="" id="manage-settings">
@@ -27,7 +33,13 @@ if($qry->num_rows > 0){
 				<div class="form-group">
 					<label for="about" class="control-label">About Content</label>
 					<textarea name="about" class="text-jqte"><?php echo isset($meta['about_content']) ? $meta['about_content'] : '' ?></textarea>
-
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
 				</div>
 				<div class="form-group">
 					<label for="" class="control-label">Image</label>
@@ -48,7 +60,13 @@ if($qry->num_rows > 0){
 		max-width: 6vw;
 	}
 </style>
-
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
 <script>
 	function displayImg(input,_this) {
     if (input.files && input.files[0]) {
@@ -88,7 +106,12 @@ if($qry->num_rows > 0){
 
 	})
 </script>
-<style>
-	
-</style>
+
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
 </div>
