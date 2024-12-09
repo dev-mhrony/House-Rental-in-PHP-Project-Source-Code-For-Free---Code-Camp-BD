@@ -1,3 +1,3 @@
 <?php 
 
-$conn= new mysqli('localhost','root','','house_rental_latest')or die("Could not connect to mysql".mysqli_error($con));
+$conn= new mysqli('localhost','root','','codecampbd_house_rental.sql')or die("Could not connect to mysql".mysqli_error($con));
